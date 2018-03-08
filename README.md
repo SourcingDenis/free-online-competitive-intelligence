@@ -1,4 +1,4 @@
-<h1>40+ Online Competitive Intelligence Tools</h1>
+<h1>40+ Online 👀 Competitive Intelligence Tools</h1>
 <p>Rather than go into how you do online competitive intelligence, I&rsquo;m just going to run through a free list of tools that have earned themselves and honorable mention here and give you some awesome tidbits for finding information online.</p>
 <p>I review competitive information on a daily basis; I have to warn you that its a lot of information.</p>
 <p>Don&rsquo;t be afraid of simply sitting down and playing with one or two tools a week and seeing what you come up with. The real magic begins to happen when you start discovering that one tool provides the secret ingredient to turbo-charge the next tool.</p>
