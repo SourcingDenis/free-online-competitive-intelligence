@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 <h1>40+ Online 👀 Competitive Intelligence Tools</h1>
 <p>Rather than go into how you do online competitive intelligence, I&rsquo;m just going to run through a free list of tools that have earned themselves and honorable mention here and give you some awesome tidbits for finding information online.</p>
